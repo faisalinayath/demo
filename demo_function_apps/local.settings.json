@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=newblobstore1;AccountKey=efrhjmG2hEI6p1spQ8KT8ZZkDkLHJTiOZlRG4G3rFUwRMrT5ESMf8F8Nm2ua6Mr9dC6aSt0mw9Ky+AStm/PTSQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "transactionsBusTrigger_SERVICEBUS": "Endpoint=sb://transactionsbustrigger.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ncsZO2wKPgArXX07bEqlQ1Kd4cGcxrkHg+ASbHRqmQA=",
+    "wiredetailsstorage_STORAGE": "DefaultEndpointsProtocol=https;AccountName=wiredetailsstorage;AccountKey=iN1eHEwUMftFPKPNuwvmpWE5hYm+LzUEh5u1MdfanyeipTw9zE1AA4KFoKwZfqoACJvoRVXB9jzb+ASttSA6zQ==;EndpointSuffix=core.windows.net"
+  }
+}
